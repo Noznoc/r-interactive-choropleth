@@ -1,5 +1,5 @@
 # SET WORK DIRECTORY
-setwd("F:/JULIA DATA/code/r-pojects/low-income-prevalence-2016")
+setwd("")
 
 # RUN LIBRARIES
 library(tidyverse)
